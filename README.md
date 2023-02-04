@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="80%" src="" />
+  <img width="80%" src="https://user-images.githubusercontent.com/97655280/216792076-c722e639-55cd-4b19-96e2-35de776eeb59.png" />
 </div>
 
 <h2 id="sobre">Sobre o projeto 🔎</h2>
@@ -19,7 +19,7 @@ Criação de um código usando o NodeJS que irá receber uma lista de propriedad
 **Dica: Ao inserir as propriedades, finalize com ponto e vírgula (;) para que o texto não seja jogado para a linha de baixo**<br>
 
 <div align="center">
-  <img width="80%" src="" />
+  <img width="80%" src="https://user-images.githubusercontent.com/97655280/216792083-608cfe01-c24f-46a6-ae15-fccf236e0dd8.png" />
 </div>
 
 <h2 id="ferramentas">Ferramentas utilizadas nesse projeto 📚</h2>
